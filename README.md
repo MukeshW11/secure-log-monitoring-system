@@ -95,7 +95,7 @@ The server starts on **http://localhost:8080**
 Access the in-memory database browser at:
 **http://localhost:8080/h2-console**
 - JDBC URL: `jdbc:h2:mem:logsentinel`
-- Username: `sa` | Password: *(empty)*
+- Username: `root` | Password: *()*
 
 ---
 

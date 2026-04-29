@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.logsentinel.api.controller.LogEntryControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.911 s -- in com.logsentinel.api.controller.LogEntryControllerTest
